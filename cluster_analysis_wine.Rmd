@@ -78,7 +78,7 @@ table(wineK3$cluster, wine$Cultivar)
 ```
 
 
-What do you think?
+What do you think? # Rescale and normalize
 
 Since k-means uses a random start method, it's a good idea to run it a bunch of times with different
 starting points. The `nstart` parameter does this for us.
